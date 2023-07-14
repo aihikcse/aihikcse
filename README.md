@@ -24,7 +24,7 @@ As a beginner, I have worked on a few projects to enhance my skills and gain han
   - Technologies: Java, Command Line Interface.
 
 - **Project 3**: Basic Blogging Platform
-  - Description: Created a simple blogging platform using PHP and MySQL to allow users to write and publish blog posts.
+  - Description: Created a simple blogging platform using REACT and MySQL to allow users to write and publish blog posts.
   - Technologies: HTML, CSS, JavaScript, SpringBoot, MySQL , React JS.
 
 ## Let's Connect! 📧
@@ -33,5 +33,5 @@ I'm always eager to connect with fellow developers and collaborate on exciting p
 
 - Email: [amakur.bku@gmail.com](mailto:amakur.bku@gmail.com)
 - LinkedIn: [linkedin.com/in/aihik-makur](https://www.linkedin.com/in/aihik-makur)
-- 
+ 
 Feel free to drop me a message — I'm looking forward to connecting with you and exploring collaborative opportunities in the world of web development and Java programming!
