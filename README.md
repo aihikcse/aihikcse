@@ -1,4 +1,4 @@
-![Header](./Navy Blue Geometric Technology LinkedIn Banner.png)
+![Header](./NavyBlueGeometricTechnologyLinkedInBanner.png)
 <h1 align="center">Hi 👋, I'm Aihik</h1>
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
