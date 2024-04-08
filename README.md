@@ -71,7 +71,8 @@ As a beginner, I have worked on a few projects to enhance my skills and gain han
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="spring" width="60" height="60"/> </a></span>&emsp;<span>
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="spring" width="60" height="60"/> </a></span>&emsp;<span>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a></span>&emsp;<span> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a></span>&emsp;<span> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a></span>&emsp;<span>
+   <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="oracle" width="60" height="60"/> </a></span>&emsp;<span>
 </p>
 <p  align="center">
 <a href="https://python.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a></span>&emsp;<span>
